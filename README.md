@@ -13,7 +13,7 @@
 
 <h3 align="center">🗡Contact Me</h3>
 <p align="center">
-   <a href="["](https://m0re-m0re.tistory.com/) target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+   <a href="https://m0re-m0re.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:shp8503@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shp8503@gmail.com"/></a>
 
  
