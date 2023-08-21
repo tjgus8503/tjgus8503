@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tjgus8503
+- 👋 Hi, Im Seohyun!
 
 <h3 align="center">⚔Skills</h3>
 <p align="center">
